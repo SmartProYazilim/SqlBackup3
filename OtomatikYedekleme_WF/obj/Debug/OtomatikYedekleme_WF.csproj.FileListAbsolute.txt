@@ -1,0 +1,42 @@
+c:\users\burcu acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe.config
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.pdb
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csprojResolveAssemblyReference.cache
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Form1.resources
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Properties.Resources.resources
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csproj.GenerateResource.Cache
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.exe
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.pdb
+C:\Users\Burcu Acar\documents\visual studio 2015\Projects\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.e_mail_gönder.resources
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe.config
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.exe
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.pdb
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.pdb
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csprojResolveAssemblyReference.cache
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.e_mail_gönder.resources
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Form1.resources
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Properties.Resources.resources
+F:\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csproj.GenerateResource.Cache
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe.config
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.exe
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.pdb
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.pdb
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csprojResolveAssemblyReference.cache
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Mail.resources
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Form1.resources
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Properties.Resources.resources
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csproj.GenerateResource.Cache
+C:\Users\Burcu Acar\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.SQL_Baglanti.resources
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe.config
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.exe
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.pdb
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.exe
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\bin\Debug\OtomatikYedekleme_WF.pdb
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Mail.resources
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Form1.resources
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.Properties.Resources.resources
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.SQL_Baglanti.resources
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\OtomatikYedekleme_WF\OtomatikYedekleme_WF\obj\Debug\OtomatikYedekleme_WF.csproj.ResolveComReference.cache
